@@ -1,5 +1,5 @@
 module.exports = {
-  title: `Chaeniiz Blog`,
+  title: `CHAENIIZ.LOG`,
   description: `Blog posted about ...`,
   author: `chaeniiz`,
   introduction: `@Banksalad에서 안드로이드 애플리케이션을 만들고 있습니다. 음악, 영화, 공간을 사랑합니다.`,
@@ -20,7 +20,7 @@ module.exports = {
     countOfInitialPost: 10, // Config your initial count of post
   },
   sponsor: {
-    buyMeACoffeeId: 'jbee',
+    buyMeACoffeeId: 'UpXJMvn',
   },
   share: {
     facebookAppId: '', // Add facebookAppId for using facebook share feature v3.2
