@@ -2,6 +2,7 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import Helmet from 'react-helmet'
 import { StaticQuery, graphql } from 'gatsby'
+import IMG_SHARE from '../../images/share.jpg';
 
 export function Head({ description, lang, meta, keywords, title }) {
   return (
@@ -54,9 +55,9 @@ export function Head({ description, lang, meta, keywords, title }) {
               .concat(
                 keywords.length > 0
                   ? {
-                      name: `keywords`,
-                      content: keywords.join(`, `),
-                    }
+                    name: `keywords`,
+                    content: keywords.join(`, `),
+                  }
                   : []
               )
               .concat(meta)}
@@ -68,9 +69,9 @@ export function Head({ description, lang, meta, keywords, title }) {
 }
 
 Head.defaultProps = {
-  lang: `en`,
+  lang: `ko`,
   meta: [],
-  keywords: [],
+  keywords: ["android", "안드로이드", "개발", "안드", "코틀린", "kotlin", "rx", "rxjava", "뱅크샐러드", "banksalad", "뱅샐", "개발블로그", "개발자"],
 }
 
 Head.propTypes = {
