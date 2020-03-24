@@ -1,13 +1,13 @@
 ---
-title: 'about'
-date: 2019-1-27 16:21:13
+title: 'resume'
+date: 2020-3-24 23:05:13
 lang: 'en'
 ---
 
-# Your name
+# Song Chae Yun
 
 <div align="center">
 
-_Thank you for reading my resume. If you want to contact me, Please send me an email._
+_Thank you for reading my resume. If you want to contact me, Please send me an email. (indexor18@gmail.com)_
 
 </div>
