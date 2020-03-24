@@ -6,7 +6,7 @@ draft: false
 
 ---
 
-![](/Users/CY/chaeniiz-blog/content/blog/music/images/dang.jpg)
+![](./images/dang.jpg)
 
 https://youtu.be/Cg90gxYZ1C0
 
