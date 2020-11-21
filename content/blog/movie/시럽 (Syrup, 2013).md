@@ -2,7 +2,7 @@
 title: '시럽 (Syrup, 2013)'
 date: 2020-7-28 12:08:00
 category: 'movie'
-draft: false
+draft: true
 
 
 
