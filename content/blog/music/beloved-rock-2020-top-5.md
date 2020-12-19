@@ -10,21 +10,21 @@ draft: false
 
 ## 1. Nothing But Thieves
 
-<object width="560" height="315"><param name="movie" value="//www.youtube.com/v/https://youtu.be/oGQ6Ykwha1E?&showinfo=0&fs=0&vq=auto&rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/https://youtu.be/oGQ6Ykwha1E?&showinfo=0&fs=0&vq=auto&rel=0" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+<param name="movie" value="//www.youtube.com/v/https://youtu.be/oGQ6Ykwha1E?&showinfo=0&fs=0&vq=auto&rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/https://youtu.be/oGQ6Ykwha1E?&showinfo=0&fs=0&vq=auto&rel=0" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed>
 
 음원이 아닌 무대 영상을 첨부했다는 것은 무대를 봐야 한다는 뜻이다. 간혹 해외 락 아티스트 중 보컬 역량이 후달려서 라이브 때에는 키를 한두 키 낮춰 부르거나 라이브보다 음원이 더 좋은 경우가 있는데, 나씽 벗 띠브스는 모든 라이브가 음원보다 두 배 이상 좋다. 첨부한 영상만 해도 그렇듯 보컬의 애드리브를 보는 재미가 쏠쏠하다. 여기 보컬이 참 그런 게, 무대를 시작하기 전에는 무슨 고등학교 장기자랑이나 대학교 축제에서 설렁설렁 노래할 것처럼 서 있다가 전주가 깔리자마자 무대를 압도해 버리는데, 이건 라이브를 몇 번을 봐도 적응이 안 된다. 그리고 얘네는 락 사운드가 미친놈인데, 더 미친놈인 점은 미친 사운드에 자꾸 현악을 섞는다는 것이다. 돌아 버린 무대를 첨부하겠다.
 
-<object width="560" height="315"><param name="movie" value="//www.youtube.com/v/https://youtu.be/ROEL3bOWk80?&showinfo=0&fs=0&vq=auto&rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/https://youtu.be/ROEL3bOWk80?&showinfo=0&fs=0&vq=auto&rel=0" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+<param name="movie" value="//www.youtube.com/v/https://youtu.be/ROEL3bOWk80?&showinfo=0&fs=0&vq=auto&rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/https://youtu.be/ROEL3bOWk80?&showinfo=0&fs=0&vq=auto&rel=0" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed>
 
 이 라이브를 보고 나면 음원이 심심하게 느껴진다. 나는 보통 오케스트라 편곡을 그다지 좋아하지 않는 편이다. 잘못하면 매우 인위적이고 억지로 끼워 맞춘 느낌이 나기 때문이다. 하지만 낫벗띠는 현악을 어떻게 써야 사람이 미치는지 아는 실로 미친놈들이다. 아마 이 미친놈들은 미친놈이라는 말을 234597번 정도 해도 정신 못 차리고 더 미친 사운드를 만들어 버릴 거다.
 
-<object width="560" height="315"><param name="movie" value="//www.youtube.com/v/https://youtu.be/dO-V7AGFASo?&showinfo=0&fs=0&vq=auto&rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/https://youtu.be/dO-V7AGFASo?&showinfo=0&fs=0&vq=auto&rel=0" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+<param name="movie" value="//www.youtube.com/v/https://youtu.be/dO-V7AGFASo?&showinfo=0&fs=0&vq=auto&rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/https://youtu.be/dO-V7AGFASo?&showinfo=0&fs=0&vq=auto&rel=0" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed>
 
 최근 신보 중 가장 좋아하는 곡이다. 유튜브 최초 공개 알림을 설정해 두고 빵빵한 스피커로 들었던 순간을 잊지 못한다. 시작하자마자 아주 칼을 갈았구나 싶었고, 음악이 끝나자마자 열 번은 다시 재생해서 들었다. 이번 앨범은 이 곡을 위해서 존재하는 것처럼 느껴질 정도로 이 곡의 존재감이 독보적이다. 앨범 아트의 컬러감, 약 빨고 찍은 것 같은 뮤직비디오 연출까지 완벽하다. 솔직히 약 했을지도 모른다. 그러지 않고서야 매번 이런 사운드가 나올 수 없지.
 
 ## 2. Arctic Monkeys
 
-<object width="560" height="315"><param name="movie" value="//www.youtube.com/v/https://youtu.be/GeyA2L5LNBk?&showinfo=0&fs=0&vq=auto&rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/https://youtu.be/GeyA2L5LNBk?&showinfo=0&fs=0&vq=auto&rel=0" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+<param name="movie" value="//www.youtube.com/v/https://youtu.be/GeyA2L5LNBk?&showinfo=0&fs=0&vq=auto&rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/https://youtu.be/GeyA2L5LNBk?&showinfo=0&fs=0&vq=auto&rel=0" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed>
 
 악틱 몽키즈를 처음 알게 된 곡이다. 내 친구 중에 희한한 곡만 골라서 듣는 애가 있는데, 그 친구 추천으로 접하게 되어 올해까지 줄기차게 듣고 있다. 나는 음악의 기승전결 중 전에서 결로 갈 때에 고조되는 분위기를 좋아한다. 이 곡의 1:33 부분이 딱 그래서 마음에 쏙 들었다. 이 앨범의 [Teddy Picker 라이브 영상](https://youtu.be/tyxrI28nkZc)도 금방이라도 큰일날 것 같이 좋으니 꼭 한번 봤으면 좋겠다. 나만 보기 아깝거든.
 
@@ -74,7 +74,7 @@ draft: false
 
 <object width="560" height="315"><param name="movie" value="//www.youtube.com/v/https://youtu.be/1T9rjhp_In8?&showinfo=0&fs=0&vq=auto&rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/https://youtu.be/1T9rjhp_In8?&showinfo=0&fs=0&vq=auto&rel=0" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
 
-다섯 번째 아티스트로 5SOS라니. 의도한 건 아니었는데 5 라임이 맞춰져서 기분이 좋아졌다. 각설하고, `Easier`는 원곡보다 이 라이브 버전이 오백만 배 더 좋아서 이 버전을 첨부했다. 퍼포먼스가 좋아서 공연을 꼭 한 번 즐겨 보고 싶다. 그지 같은 코로나 끝나고 내한 공연 한 번만 와 주세요. 제발요.
+다섯 번째 아티스트로 5SOS라니. 의도한 건 아니었는데 5 라임이 맞춰져서 기분이 좋아졌다. 각설하고, `Easier는 원곡보다 이 라이브 버전이 오백만 배 더 좋아서 이 버전을 첨부했다. 퍼포먼스가 좋아서 공연을 꼭 한 번 즐겨 보고 싶다. 그지 같은 코로나 끝나고 내한 공연 한 번만 와 주세요. 제발요.
 
 <object width="560" height="315"><param name="movie" value="//www.youtube.com/v/https://youtu.be/-RJSbO8UZVY?&showinfo=0&fs=0&vq=auto&rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/https://youtu.be/-RJSbO8UZVY?&showinfo=0&fs=0&vq=auto&rel=0" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
 
