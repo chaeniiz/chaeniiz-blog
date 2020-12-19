@@ -12,7 +12,7 @@ draft: false
 
 <param name="movie" value="//www.youtube.com/v/https://youtu.be/oGQ6Ykwha1E?&showinfo=0&fs=0&vq=auto&rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/https://youtu.be/oGQ6Ykwha1E?&showinfo=0&fs=0&vq=auto&rel=0" type="application/x-shockwave-flash" width="100%" height="315" allowscriptaccess="always" allowfullscreen="true"></embed>
 
-음원이 아닌 무대 영상을 첨부했다는 것은 무대를 봐야 한다는 뜻이다. 간혹 해외 락 아티스트 중 보컬 역량이 후달려서 라이브 때에는 키를 한두 키 낮춰 부르거나 라이브보다 음원이 더 좋은 경우가 있는데, 나씽 벗 띠브스는 모든 라이브가 음원보다 두 배 이상 좋다. 첨부한 영상만 해도 그렇듯 보컬의 애드리브를 보는 재미가 쏠쏠하다. 여기 보컬이 참 그런 게, 무대를 시작하기 전에는 무슨 고등학교 장기자랑이나 대학교 축제에서 설렁설렁 노래할 것처럼 서 있다가 전주가 깔리자마자 무대를 압도해 버리는데, 이건 라이브를 몇 번을 봐도 적응이 안 된다. 그리고 얘네는 락 사운드가 미친놈인데, 더 미친놈인 점은 미친 사운드에 자꾸 현악을 섞는다는 것이다. 돌아 버린 무대를 첨부하겠다.
+음원이 아닌 무대 영상을 첨부했다는 것은 무대를 봐야 한다는 뜻이다. 간혹 해외 락 아티스트 중 보컬 역량이 후달려서 라이브 때에는 키를 한두 키 낮춰 부르거나 라이브보다 음원이 더 좋은 경우가 있는데, Nothing But Thieves는 모든 라이브가 음원보다 두 배 이상 좋다. 첨부한 영상만 해도 그렇듯 보컬의 애드리브를 보는 재미가 쏠쏠하다. 여기 보컬이 참 그런 게, 무대를 시작하기 전에는 무슨 고등학교 장기자랑이나 대학교 축제에서 설렁설렁 노래할 것처럼 서 있다가 전주가 깔리자마자 무대를 압도해 버리는데, 이건 라이브를 몇 번을 봐도 적응이 안 된다. 그리고 얘네는 락 사운드가 미친놈인데, 더 미친놈인 점은 미친 사운드에 자꾸 현악을 섞는다는 것이다. 돌아 버린 무대를 첨부하겠다.
 
 <param name="movie" value="//www.youtube.com/v/https://youtu.be/ROEL3bOWk80?&showinfo=0&fs=0&vq=auto&rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/https://youtu.be/ROEL3bOWk80?&showinfo=0&fs=0&vq=auto&rel=0" type="application/x-shockwave-flash" width="100%" height="315" allowscriptaccess="always" allowfullscreen="true"></embed>
 
@@ -26,15 +26,15 @@ draft: false
 
 <param name="movie" value="//www.youtube.com/v/https://youtu.be/GeyA2L5LNBk?&showinfo=0&fs=0&vq=auto&rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/https://youtu.be/GeyA2L5LNBk?&showinfo=0&fs=0&vq=auto&rel=0" type="application/x-shockwave-flash" width="100%" height="315" allowscriptaccess="always" allowfullscreen="true"></embed>
 
-악틱 몽키즈를 처음 알게 된 곡이다. 내 친구 중에 희한한 곡만 골라서 듣는 애가 있는데, 그 친구 추천으로 접하게 되어 올해까지 줄기차게 듣고 있다. 나는 음악의 기승전결 중 전에서 결로 갈 때에 고조되는 분위기를 좋아한다. 이 곡의 1:33 부분이 딱 그래서 마음에 쏙 들었다. 이 앨범의 [Teddy Picker 라이브 영상](https://youtu.be/tyxrI28nkZc)도 금방이라도 큰일날 것 같이 좋으니 꼭 한번 봤으면 좋겠다. 나만 보기 아깝거든.
+Arctic Monkeys를 처음 알게 된 곡이다. 내 친구 중에 희한한 곡만 골라서 듣는 애가 있는데, 그 친구 추천으로 접하게 되어 올해까지 줄기차게 듣고 있다. 나는 음악의 기승전결 중 전에서 결로 갈 때에 고조되는 분위기를 좋아한다. 이 곡의 1:33 부분이 딱 그래서 마음에 쏙 들었다. 이 앨범의 [Teddy Picker 라이브 영상](https://youtu.be/tyxrI28nkZc)도 금방이라도 큰일날 것 같이 좋으니 꼭 한번 봤으면 좋겠다. 나만 보기 아깝거든.
 
-악틱 몽키즈는 위 두 영상처럼 조마조마하고 사고 칠 것 같은 사운드를 참 잘 만들어 내는데, 이와 상반되게 다 놓아 버릴 것 같은 냉소적이고 절절한 음악도 잘 쓴다. 이 냉탕과 온탕을 번갈아 가며 들락날락하는 게 사람을 홀리게 만든다. 올해 여름에는 출근 길마다 `I Wanna Be Yours`를 들었다. 유독 비가 많이 내렸던 계절과 잘 어울려서 고독도 자주 씹었고. 아마 내년 여름에도 나는 이 곡을 찾아 듣겠지.
+Arctic Monkeys는 위 두 영상처럼 조마조마하고 사고 칠 것 같은 사운드를 참 잘 만들어 내는데, 이와 상반되게 다 놓아 버릴 것 같은 냉소적이고 절절한 음악도 잘 쓴다. 이 냉탕과 온탕을 번갈아 가며 들락날락하는 게 사람을 홀리게 만든다. 올해 여름에는 출근 길마다 `I Wanna Be Yours`를 들었다. 유독 비가 많이 내렸던 계절과 잘 어울려서 고독도 자주 씹었고. 아마 내년 여름에도 나는 이 곡을 찾아 듣겠지.
 
 <param name="movie" value="//www.youtube.com/v/https://youtu.be/nyuo9-OjNNg?&showinfo=0&fs=0&vq=auto&rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/https://youtu.be/nyuo9-OjNNg?&showinfo=0&fs=0&vq=auto&rel=0" type="application/x-shockwave-flash" width="100%" height="315" allowscriptaccess="always" allowfullscreen="true"></embed>
 
 > 이 곡은 가사도 정말 좋다. 너의 먼지를 들어마시게 네 집 청소기가 되고 싶다니.
 
-개인적으로 이 앨범이 악틱 몽키즈 앨범 중 가장 완성도 높은 앨범이라 생각한다. 한 곡도 빠짐없이 좋아서 한 곡을 들으면 앨범 전곡을 들어 줘야 한다. 이 앨범에서 가장 추천할 만한 곡을 고르라면 난 단연 `R U Mine?`을 고르겠다. 누구든 좋아할 수밖에 없는 곡이라 생각한다.
+개인적으로 이 앨범이 Arctic Monkeys 앨범 중 가장 완성도 높은 앨범이라 생각한다. 한 곡도 빠짐없이 좋아서 한 곡을 들으면 앨범 전곡을 들어 줘야 한다. 이 앨범에서 가장 추천할 만한 곡을 고르라면 난 단연 `R U Mine?`을 고르겠다. 누구든 좋아할 수밖에 없는 곡이라 생각한다.
 
 <param name="movie" value="//www.youtube.com/v/https://youtu.be/giLpYG11qxQ?&showinfo=0&fs=0&vq=auto&rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/https://youtu.be/giLpYG11qxQ?&showinfo=0&fs=0&vq=auto&rel=0" type="application/x-shockwave-flash" width="100%" height="315" allowscriptaccess="always" allowfullscreen="true"></embed>
 
