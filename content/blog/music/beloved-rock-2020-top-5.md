@@ -74,7 +74,7 @@ Arctic Monkeys는 위 두 영상처럼 조마조마하고 사고 칠 것 같은 
 
 <param name="movie" value="//www.youtube.com/v/https://youtu.be/1T9rjhp_In8?&showinfo=0&fs=0&vq=auto&rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/https://youtu.be/1T9rjhp_In8?&showinfo=0&fs=0&vq=auto&rel=0" type="application/x-shockwave-flash" width="100%" height="315" allowscriptaccess="always" allowfullscreen="true"></embed>
 
-다섯 번째 아티스트로 5SOS라니. 의도한 건 아니었는데 5 라임이 맞춰져서 기분이 좋아졌다. 각설하고, `Easier는 원곡보다 이 라이브 버전이 오백만 배 더 좋아서 이 버전을 첨부했다. 퍼포먼스가 좋아서 공연을 꼭 한 번 즐겨 보고 싶다. 그지 같은 코로나 끝나고 내한 공연 한 번만 와 주세요. 제발요.
+다섯 번째 아티스트로 5SOS라니. 의도한 건 아니었는데 5 라임이 맞춰져서 기분이 좋아졌다. 각설하고, `Easier`는 원곡보다 이 라이브 버전이 오백만 배 더 좋아서 이 버전을 첨부했다. 퍼포먼스가 좋아서 공연을 꼭 한 번 즐겨 보고 싶다. 그지 같은 코로나 끝나고 내한 공연 한 번만 와 주세요. 제발요.
 
 <param name="movie" value="//www.youtube.com/v/https://youtu.be/-RJSbO8UZVY?&showinfo=0&fs=0&vq=auto&rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/https://youtu.be/-RJSbO8UZVY?&showinfo=0&fs=0&vq=auto&rel=0" type="application/x-shockwave-flash" width="100%" height="315" allowscriptaccess="always" allowfullscreen="true"></embed>
 
