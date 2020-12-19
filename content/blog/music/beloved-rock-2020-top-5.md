@@ -10,7 +10,7 @@ draft: false
 
 ## 1. Nothing But Thieves
 
-<param name="movie" value="//www.youtube.com/v/https://youtu.be/oGQ6Ykwha1E?&showinfo=0&fs=0&vq=auto&rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/https://youtu.be/oGQ6Ykwha1E?&showinfo=0&fs=0&vq=auto&rel=0" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed>
+<param name="movie" value="//www.youtube.com/v/https://youtu.be/oGQ6Ykwha1E?&showinfo=0&fs=0&vq=auto&rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/https://youtu.be/oGQ6Ykwha1E?&showinfo=0&fs=0&vq=auto&rel=0" type="application/x-shockwave-flash" width="100%" height="315" allowscriptaccess="always" allowfullscreen="true"></embed>
 
 음원이 아닌 무대 영상을 첨부했다는 것은 무대를 봐야 한다는 뜻이다. 간혹 해외 락 아티스트 중 보컬 역량이 후달려서 라이브 때에는 키를 한두 키 낮춰 부르거나 라이브보다 음원이 더 좋은 경우가 있는데, 나씽 벗 띠브스는 모든 라이브가 음원보다 두 배 이상 좋다. 첨부한 영상만 해도 그렇듯 보컬의 애드리브를 보는 재미가 쏠쏠하다. 여기 보컬이 참 그런 게, 무대를 시작하기 전에는 무슨 고등학교 장기자랑이나 대학교 축제에서 설렁설렁 노래할 것처럼 서 있다가 전주가 깔리자마자 무대를 압도해 버리는데, 이건 라이브를 몇 번을 봐도 적응이 안 된다. 그리고 얘네는 락 사운드가 미친놈인데, 더 미친놈인 점은 미친 사운드에 자꾸 현악을 섞는다는 것이다. 돌아 버린 무대를 첨부하겠다.
 
