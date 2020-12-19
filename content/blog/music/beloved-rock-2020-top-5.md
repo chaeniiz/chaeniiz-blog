@@ -30,27 +30,27 @@ draft: false
 
 악틱 몽키즈는 위 두 영상처럼 조마조마하고 사고 칠 것 같은 사운드를 참 잘 만들어 내는데, 이와 상반되게 다 놓아 버릴 것 같은 냉소적이고 절절한 음악도 잘 쓴다. 이 냉탕과 온탕을 번갈아 가며 들락날락하는 게 사람을 홀리게 만든다. 올해 여름에는 출근 길마다 `I Wanna Be Yours`를 들었다. 유독 비가 많이 내렸던 계절과 잘 어울려서 고독도 자주 씹었고. 아마 내년 여름에도 나는 이 곡을 찾아 듣겠지.
 
-<object width="560" height="315"><param name="movie" value="//www.youtube.com/v/https://youtu.be/nyuo9-OjNNg?&showinfo=0&fs=0&vq=auto&rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/https://youtu.be/nyuo9-OjNNg?&showinfo=0&fs=0&vq=auto&rel=0" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+<param name="movie" value="//www.youtube.com/v/https://youtu.be/nyuo9-OjNNg?&showinfo=0&fs=0&vq=auto&rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/https://youtu.be/nyuo9-OjNNg?&showinfo=0&fs=0&vq=auto&rel=0" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed>
 
 > 이 곡은 가사도 정말 좋다. 너의 먼지를 들어마시게 네 집 청소기가 되고 싶다니.
 
 개인적으로 이 앨범이 악틱 몽키즈 앨범 중 가장 완성도 높은 앨범이라 생각한다. 한 곡도 빠짐없이 좋아서 한 곡을 들으면 앨범 전곡을 들어 줘야 한다. 이 앨범에서 가장 추천할 만한 곡을 고르라면 난 단연 `R U Mine?`을 고르겠다. 누구든 좋아할 수밖에 없는 곡이라 생각한다.
 
-<object width="560" height="315"><param name="movie" value="//www.youtube.com/v/https://youtu.be/giLpYG11qxQ?&showinfo=0&fs=0&vq=auto&rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/https://youtu.be/giLpYG11qxQ?&showinfo=0&fs=0&vq=auto&rel=0" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+<param name="movie" value="//www.youtube.com/v/https://youtu.be/giLpYG11qxQ?&showinfo=0&fs=0&vq=auto&rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/https://youtu.be/giLpYG11qxQ?&showinfo=0&fs=0&vq=auto&rel=0" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed>
 
 ## 3. The Neighbourhood
 
-<object width="560" height="315"><param name="movie" value="//www.youtube.com/v/https://youtu.be/fRoWZPn2EEc?&showinfo=0&fs=0&vq=auto&rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/https://youtu.be/fRoWZPn2EEc?&showinfo=0&fs=0&vq=auto&rel=0" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+<param name="movie" value="//www.youtube.com/v/https://youtu.be/fRoWZPn2EEc?&showinfo=0&fs=0&vq=auto&rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/https://youtu.be/fRoWZPn2EEc?&showinfo=0&fs=0&vq=auto&rel=0" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed>
 
 중학생 때인가? 글과 함께 어울리는 음악을 찾아 듣는 걸 좋아했었다. 다소 무거운 글을 읽고 있었을 때에 열심히 서치해서 알게 됐던 곡이 이 곡. 이 곡에 푹 빠져 앨범의 다른 곡들은 들어 보지 않았었는데, 최근에야 다른 곡들도 들어 보게 됐다. 그리고 이제서야 이 아티스트의 진가를 안 것 같다.
 
 > 그때 찾아 들었던 곡들은 지금도 열심히 듣고 있다. [8mm - Angel](https://youtu.be/saf2Yvx0FvU), [Birdy - Strange Birds](https://youtu.be/TKsZzPwjG58) 두 곡 모두 퇴폐적이고 질리지 않아 추천한다.
 
-<object width="560" height="315"><param name="movie" value="//www.youtube.com/v/https://youtu.be/2IE3T9mcqyM?&showinfo=0&fs=0&vq=auto&rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/https://youtu.be/2IE3T9mcqyM?&showinfo=0&fs=0&vq=auto&rel=0" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+<param name="movie" value="//www.youtube.com/v/https://youtu.be/2IE3T9mcqyM?&showinfo=0&fs=0&vq=auto&rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/https://youtu.be/2IE3T9mcqyM?&showinfo=0&fs=0&vq=auto&rel=0" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed>
 
 흑백의 음악. 내 감상은 그렇다. 흑백의 음악을 잘 쓴다. 정규 1집도, 2집도 앨범 아트에서부터 흑백만을 썼는데, 그 분위기가 그대로 음악에 녹아들어 있다. 처절하면서도 무게감 있고, 그 무게감이 부담스럽지 않다. 이 곡도 그렇다. 적절한 박자감과 멜로디가 조화롭게 어우러진다. 내 취향을 완벽히 알고 있는, 내가 정말 아끼는 사람이 내가 좋아할 것 같다며 추천해 준 곡이라 더 애착이 가는 곡이기도 하다.
 
-<object width="560" height="315"><param name="movie" value="//www.youtube.com/v/https://youtu.be/tDm5zslFXwc?&showinfo=0&fs=0&vq=auto&rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/https://youtu.be/tDm5zslFXwc?&showinfo=0&fs=0&vq=auto&rel=0" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+<param name="movie" value="//www.youtube.com/v/https://youtu.be/tDm5zslFXwc?&showinfo=0&fs=0&vq=auto&rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/https://youtu.be/tDm5zslFXwc?&showinfo=0&fs=0&vq=auto&rel=0" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed>
 
 마찬가지로 흑백인 앨범 아트. 제목부터 전주, 후렴까지 모두 내 취향에 부합하는 곡이다. 최근에는 지향하는 음악 방향성이 확 바뀌었는지 이때 같은 음악은 다시 안 쓰는 것 같다. 그래서 아쉽다. (앨범 아트도 컬러풀해졌다......)
 
@@ -58,29 +58,29 @@ draft: false
 
 ## 4. Saint Motel
 
-<object width="560" height="315"><param name="movie" value="//www.youtube.com/v/https://youtu.be/G3XdVEDBXJI?&showinfo=0&fs=0&vq=auto&rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/https://youtu.be/G3XdVEDBXJI?&showinfo=0&fs=0&vq=auto&rel=0" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+<param name="movie" value="//www.youtube.com/v/https://youtu.be/G3XdVEDBXJI?&showinfo=0&fs=0&vq=auto&rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/https://youtu.be/G3XdVEDBXJI?&showinfo=0&fs=0&vq=auto&rel=0" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed>
 
 가사와 멜로디 중 더 중시하는 것을 고르라면 난 무조건 멜로디를 고른다. 덧붙이자면 지루할 틈 없이 듣기 좋은 멜로디. Saint Motel은 그런 멜로디를 참 잘 만든다. `A Good Song Never Dies`는 올해 가장 자주 들었던 음악 중 하나인데, 듣고 있으면 첩보 요원이 된 느낌이 든다. 그것도 시니어(?) 요원. 손에 묻은 먼지를 털고 나올 때 배경 음악으로 깔릴 것 같다. 전반적인 분위기가 긴박해서 코딩 할 때도 자주 들었다. 쫓기는 기분으로 코드를 짜다 보면 잘 짜질 때가 있다. 마치 듀 데이트에 쫓기는 그런 긴박함? 어이없지만 아무튼 나는 뭐 그렇더라.
 
-<object width="560" height="315"><param name="movie" value="//www.youtube.com/v/https://youtu.be/GG4aNiGswNQ?&showinfo=0&fs=0&vq=auto&rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/https://youtu.be/GG4aNiGswNQ?&showinfo=0&fs=0&vq=auto&rel=0" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+<param name="movie" value="//www.youtube.com/v/https://youtu.be/GG4aNiGswNQ?&showinfo=0&fs=0&vq=auto&rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/https://youtu.be/GG4aNiGswNQ?&showinfo=0&fs=0&vq=auto&rel=0" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed>
 
 이게 내가 Saint Motel과 처음 만나게 된 곡이다. 얘네는 광고 음악으로 쓰일 법한 노래를 참 잘 만드는 것 같다. 멜론에서 제목 뒤에 괄호 열고 `삼성 어쩌고 CF 삽입` 들어갈 법한 노래. (진짜 이거 개싫어해서 멜론 버리고 다른 걸로 갈아탔다) 더불어 앨범 아트도 곡의 전반적인 분위기와 잘 어울리게 잘 뽑아서 보는 재미를 더한다. 책을 고를 때 표지를 보고 고르듯, 나는 앨범의 전체적인 완성도를 앨범 아트에서 찾는 편이기도 하다.
 
-<object width="560" height="315"><param name="movie" value="//www.youtube.com/v/https://youtu.be/qvgqZr6ZnVQ?&showinfo=0&fs=0&vq=auto&rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/https://youtu.be/qvgqZr6ZnVQ?&showinfo=0&fs=0&vq=auto&rel=0" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+<param name="movie" value="//www.youtube.com/v/https://youtu.be/qvgqZr6ZnVQ?&showinfo=0&fs=0&vq=auto&rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/https://youtu.be/qvgqZr6ZnVQ?&showinfo=0&fs=0&vq=auto&rel=0" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed>
 
 가장 최근 앨범의 타이틀 곡이다. 이 앨범도 역시 앨범 아트 색감과 음악이 잘 어우러진다. `Preach`가 꼭 `Peach `같기도 하고, 마침 또 복숭아 색깔이기도 하고. 여름에 나온 음악에 맞게 여름과 잘 어울린다. 듣고 있으면 기분이 좋아져서 자주 들었었다. 전체적으로 상큼하다.
 
 ## 5. 5 Seconds of Summer
 
-<object width="560" height="315"><param name="movie" value="//www.youtube.com/v/https://youtu.be/1T9rjhp_In8?&showinfo=0&fs=0&vq=auto&rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/https://youtu.be/1T9rjhp_In8?&showinfo=0&fs=0&vq=auto&rel=0" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+<param name="movie" value="//www.youtube.com/v/https://youtu.be/1T9rjhp_In8?&showinfo=0&fs=0&vq=auto&rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/https://youtu.be/1T9rjhp_In8?&showinfo=0&fs=0&vq=auto&rel=0" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed>
 
 다섯 번째 아티스트로 5SOS라니. 의도한 건 아니었는데 5 라임이 맞춰져서 기분이 좋아졌다. 각설하고, `Easier는 원곡보다 이 라이브 버전이 오백만 배 더 좋아서 이 버전을 첨부했다. 퍼포먼스가 좋아서 공연을 꼭 한 번 즐겨 보고 싶다. 그지 같은 코로나 끝나고 내한 공연 한 번만 와 주세요. 제발요.
 
-<object width="560" height="315"><param name="movie" value="//www.youtube.com/v/https://youtu.be/-RJSbO8UZVY?&showinfo=0&fs=0&vq=auto&rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/https://youtu.be/-RJSbO8UZVY?&showinfo=0&fs=0&vq=auto&rel=0" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+<param name="movie" value="//www.youtube.com/v/https://youtu.be/-RJSbO8UZVY?&showinfo=0&fs=0&vq=auto&rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/https://youtu.be/-RJSbO8UZVY?&showinfo=0&fs=0&vq=auto&rel=0" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed>
 
 저음부가 강조되는 락을 좋아한다. 이 노래의 싸비로 가는 부분이 그렇다. 둥둥거리는 소리를 스피커로 듣고 있으면 발을 까딱까딱하게 된다. 음원을 먼저 들어 보고 뮤직비디오에서는 미국 양아치들이 나오지 않을까 싶었는데, 막상 보니 처음부터 끝까지 일본 양아치들만 나오더라. 조금 당혹스러웠는데 계속 보다 보니 묘하게 중독돼서 은근히 즐기고 있는 나를 발견. 왜 일본 양아치를 넣었을까. 잘 어울리는 것 같기도 하고.
 
-<object width="560" height="315"><param name="movie" value="//www.youtube.com/v/https://youtu.be/JWeJHN5P-E8?&showinfo=0&fs=0&vq=auto&rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/https://youtu.be/JWeJHN5P-E8?&showinfo=0&fs=0&vq=auto&rel=0" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+<param name="movie" value="//www.youtube.com/v/https://youtu.be/JWeJHN5P-E8?&showinfo=0&fs=0&vq=auto&rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/https://youtu.be/JWeJHN5P-E8?&showinfo=0&fs=0&vq=auto&rel=0" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed>
 
 5SOS 노래 중에 가장 좋아하고, 가장 아끼고, 가장 자주 듣는 음악이다. 진짜 화나고 속에서 들끓는 기분이 들었을 때 이 음악을 들으면서 유산소로 500 칼로리를 태웠던 적이 있는데, 스트레스까지 같이 태워지던 그때의 기분이 잊혀지지 않아서 내 운동 플레이리스트에 이 노래가 첫 빠따로 끼어 있다. 다 때려부수는 듯한 뮤직비디오도 크게 한몫한다. 내 스트레스 해소용 영상이다. 말 나온 김에 다음 글에는 내가 사랑했던 뮤직비디오에 대해 적어 봐야겠다.
 
