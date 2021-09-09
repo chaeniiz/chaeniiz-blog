@@ -12,6 +12,6 @@ lang: 'en'
 
 <div align="center">
 
-_Thank you for reading my resume. If you want to contact me, Please send me an email. (indexor18@gmail.com)_
+_Thank you for reading my resume. If you want to contact me, Please send me an email. (chaeniiz@kakao.com)_
 
 </div>
