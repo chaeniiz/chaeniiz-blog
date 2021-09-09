@@ -2,7 +2,7 @@
 title: '2020년에 사랑한 뮤직비디오 TOP 8'
 date: 2021-1-02 19:32:32
 category: 'music'
-draft: false
+draft: true
 
 ---
 
