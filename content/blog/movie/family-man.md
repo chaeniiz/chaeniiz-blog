@@ -2,7 +2,7 @@
 title: '패밀리 맨'
 date: 2021-1-17 22:23:32
 category: 'movie'
-draft: false
+draft: true
 
 
 ---
