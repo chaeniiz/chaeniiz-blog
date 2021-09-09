@@ -2,7 +2,7 @@
 title: '2020년에 사랑한 락 아티스트 TOP 5'
 date: 2020-12-17 12:55:32
 category: 'music'
-draft: false
+draft: true
 
 ---
 
