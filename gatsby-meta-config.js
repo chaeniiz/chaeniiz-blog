@@ -75,8 +75,8 @@ module.exports = {
         title: '',
         description:
           '',
-        techStack: ['android'],
-        thumbnailUrl: 'blog.png',
+        techStack: [''],
+        thumbnailUrl: '',
         links: {
           post: '',
           github: '',
