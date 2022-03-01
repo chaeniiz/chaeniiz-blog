@@ -42,15 +42,15 @@ module.exports = {
       },
       // ========================================================
       // ========================================================
-      {
-        date: '2021.01 ~',
-        activity: '개인 블로그 운영',
-        links: {
-          post: '',
-          github: 'https://github.com/chaeniiz/chaeniiz-blog',
-          demo: 'https://www.chaeniiz.com',
-        },
-      },
+      // {
+      //   date: '2021.01 ~',
+      //   activity: '개인 블로그 운영',
+      //   links: {
+      //     post: '',
+      //     github: 'https://github.com/chaeniiz/chaeniiz-blog',
+      //     demo: 'https://www.chaeniiz.com',
+      //   },
+      // },
     ],
 
     projects: [
@@ -71,18 +71,18 @@ module.exports = {
       },
       // ========================================================
       // ========================================================
-      {
-        title: '',
-        description:
-          '',
-        techStack: [''],
-        thumbnailUrl: '',
-        links: {
-          post: '',
-          github: '',
-          demo: '',
-        },
-      },
+      // {
+      //   title: '',
+      //   description:
+      //     '',
+      //   techStack: ['android'],
+      //   thumbnailUrl: 'blog.png',
+      //   links: {
+      //     post: '',
+      //     github: '',
+      //     demo: '',
+      //   },
+      // },
     ],
   },
 };
