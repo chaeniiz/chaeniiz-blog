@@ -20,15 +20,18 @@ function env (key) {
 
 module.exports = function () {
   try {
-    const proxy = url.parse(proxies.map(env).find(is.string));
+    const proxy = new url.URL(proxies.map(env).find(is.string));
     const tunnel = proxy.protocol === 'https:'
       ? tunnelAgent.httpsOverHttps
       : tunnelAgent.httpsOverHttp;
+    const proxyAuth = proxy.username && proxy.password
+      ? `${decodeURIComponent(proxy.username)}:${decodeURIComponent(proxy.password)}`
+      : null;
     return tunnel({
       proxy: {
         port: Number(proxy.port),
         host: proxy.hostname,
-        proxyAuth: proxy.auth
+        proxyAuth
       }
     });
   } catch (err) {

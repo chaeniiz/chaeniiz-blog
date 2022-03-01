@@ -1,70 +1,100 @@
-const path = require(`path`)
-const { createFilePath } = require(`gatsby-source-filesystem`)
+const { createFilePath } = require(`gatsby-source-filesystem`);
 
-exports.createPages = ({ graphql, actions }) => {
-  const { createPage } = actions
+exports.onCreateNode = ({ node, getNode, actions }) => {
+  const { createNodeField } = actions;
+  if (node.internal.type === `MarkdownRemark`) {
+    const slug = createFilePath({ node, getNode, basePath: `content` });
+    createNodeField({ node, name: `slug`, value: slug });
+  }
+};
 
-  const blogPostTemplate = path.resolve(`./src/templates/blog-post.js`)
+const createBlogPages = ({ createPage, results }) => {
+  const blogPostTemplate = require.resolve(`./src/templates/blog-template.js`);
+  results.data.allMarkdownRemark.edges.forEach(({ node, next, previous }) => {
+    createPage({
+      path: node.fields.slug,
+      component: blogPostTemplate,
+      context: {
+        // additional data can be passed via context
+        slug: node.fields.slug,
+        nextSlug: next?.fields.slug ?? '',
+        prevSlug: previous?.fields.slug ?? '',
+      },
+    });
+  });
+};
 
-  return graphql(
-    `
-      {
-        allMarkdownRemark(
-          sort: { fields: [frontmatter___date], order: DESC }
-          limit: 1000
-        ) {
-          edges {
-            node {
-              fields {
-                slug
-              }
-              frontmatter {
-                title
-                category
-                draft
-              }
+const createPostsPages = ({ createPage, results }) => {
+  const categoryTemplate = require.resolve(`./src/templates/category-template.js`);
+  const categorySet = new Set(['All']);
+  const { edges } = results.data.allMarkdownRemark;
+
+  edges.forEach(({ node }) => {
+    const postCategories = node.frontmatter.categories.split(' ');
+    postCategories.forEach((category) => categorySet.add(category));
+  });
+
+  const categories = [...categorySet];
+
+  createPage({
+    path: `/posts`,
+    component: categoryTemplate,
+    context: { currentCategory: 'All', edges, categories },
+  });
+
+  categories.forEach((currentCategory) => {
+    createPage({
+      path: `/posts/${currentCategory}`,
+      component: categoryTemplate,
+      context: {
+        currentCategory,
+        categories,
+        edges: edges.filter(({ node }) => node.frontmatter.categories.includes(currentCategory)),
+      },
+    });
+  });
+};
+
+exports.createPages = async ({ actions, graphql, reporter }) => {
+  const { createPage } = actions;
+
+  const results = await graphql(`
+    {
+      allMarkdownRemark(sort: { order: DESC, fields: [frontmatter___date] }, limit: 1000) {
+        edges {
+          node {
+            id
+            excerpt(pruneLength: 500, truncate: true)
+            fields {
+              slug
+            }
+            frontmatter {
+              categories
+              title
+              date(formatString: "MMMM DD, YYYY")
+            }
+          }
+          next {
+            fields {
+              slug
+            }
+          }
+          previous {
+            fields {
+              slug
             }
           }
         }
       }
-    `
-  ).then(result => {
-    if (result.errors) {
-      throw result.errors
     }
+  `);
 
-    // Create blog posts pages.
-    const posts = result.data.allMarkdownRemark.edges.filter(
-      ({ node }) => !node.frontmatter.draft && !!node.frontmatter.category
-    )
-
-    posts.forEach((post, index) => {
-      const previous = index === posts.length - 1 ? null : posts[index + 1].node
-      const next = index === 0 ? null : posts[index - 1].node
-
-      createPage({
-        path: post.node.fields.slug,
-        component: blogPostTemplate,
-        context: {
-          slug: post.node.fields.slug,
-          previous,
-          next,
-        },
-      })
-    })
-  })
-}
-
-exports.onCreateNode = ({ node, actions, getNode }) => {
-  const { createNodeField } = actions
-
-  if (node.internal.type === `MarkdownRemark`) {
-    const value = createFilePath({ node, getNode })
-
-    createNodeField({
-      name: `slug`,
-      node,
-      value,
-    })
+  // Handle errors
+  if (results.errors) {
+    reporter.panicOnBuild(`Error while running GraphQL query.`);
+    return;
   }
-}
+
+  createBlogPages({ createPage, results });
+  createPostsPages({ createPage, results });
+};

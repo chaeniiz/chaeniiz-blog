@@ -1,47 +1,76 @@
-import React from 'react'
-import { graphql } from 'gatsby'
+import React from 'react';
+import { graphql } from 'gatsby';
+import Layout from '../layout';
+import Seo from '../components/seo';
+import Bio from '../components/bio';
+import TimeStampSection from '../components/timestamp-section';
+import ProjectSection from '../components/project-section';
 
-import { rhythm } from '../utils/typography'
-import * as Lang from '../constants'
-
-export default ({ data }) => {
-  const resumes = data.allMarkdownRemark.edges
-
-  const resume = resumes
-    .filter(({ node }) => node.frontmatter.lang === Lang.ENGLISH)
-    .map(({ node }) => node)[0]
-
+function AboutPage({ data }) {
+  const metaData = data.site.siteMetadata;
+  const { author, about, language } = metaData;
+  const { timestamps, projects } = about;
   return (
-    <div
-      style={{
-        marginLeft: `auto`,
-        marginRight: `auto`,
-        maxWidth: rhythm(24),
-        padding: `${rhythm(0.5)} ${rhythm(3 / 4)} ${rhythm(1.5)} ${rhythm(
-          3 / 4
-        )}`,
-      }}
-    >
-      <div dangerouslySetInnerHTML={{ __html: resume.html }} />
-    </div>
-  )
+    <Layout>
+      <Seo title="About" />
+      <Bio author={author} language={language} />
+      <TimeStampSection timestamps={timestamps} />
+      <ProjectSection projects={projects} />
+    </Layout>
+  );
 }
+
+export default AboutPage;
 
 export const pageQuery = graphql`
   query {
-    allMarkdownRemark(filter: { frontmatter: { category: { eq: null } } }) {
-      edges {
-        node {
-          id
-          excerpt(pruneLength: 160)
-          html
-          frontmatter {
+    site {
+      siteMetadata {
+        title
+        description
+        language
+        author {
+          name
+          bio {
+            role
+            description
+            thumbnail
+          }
+          social {
+            github
+            linkedIn
+            email
+          }
+        }
+
+        about {
+          timestamps {
+            date
+            activity
+            links {
+              post
+              github
+              demo
+              googlePlay
+              appStore
+            }
+          }
+
+          projects {
             title
-            date(formatString: "MMMM DD, YYYY")
-            lang
+            description
+            techStack
+            thumbnailUrl
+            links {
+              post
+              github
+              demo
+              googlePlay
+              appStore
+            }
           }
         }
       }
     }
   }
-`
+`;

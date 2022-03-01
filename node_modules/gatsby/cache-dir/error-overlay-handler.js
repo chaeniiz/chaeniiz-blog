@@ -1,28 +1,25 @@
-import * as ErrorOverlay from "react-error-overlay"
-
-// Report runtime errors
-ErrorOverlay.startReportingRuntimeErrors({
-  onError: () => {},
-  filename: `/commons.js`,
-})
-ErrorOverlay.setEditorHandler(errorLocation =>
-  window.fetch(
-    `/__open-stack-frame-in-editor?fileName=` +
-      window.encodeURIComponent(errorLocation.fileName) +
-      `&lineNumber=` +
-      window.encodeURIComponent(errorLocation.lineNumber || 1)
-  )
-)
-
 const errorMap = {}
 
 const handleErrorOverlay = () => {
   const errors = Object.values(errorMap)
+  let errorsToDisplay = []
   if (errors.length > 0) {
-    const errorMsg = errors.join(`\n\n`)
-    ErrorOverlay.reportBuildError(errorMsg)
+    errorsToDisplay = errors.flatMap(e => e).filter(Boolean)
+  }
+
+  if (errorsToDisplay.length > 0) {
+    window._gatsbyEvents.push([
+      `FAST_REFRESH`,
+      {
+        action: `SHOW_GRAPHQL_ERRORS`,
+        payload: errorsToDisplay,
+      },
+    ])
   } else {
-    ErrorOverlay.dismissBuildError()
+    window._gatsbyEvents.push([
+      `FAST_REFRESH`,
+      { action: `CLEAR_GRAPHQL_ERRORS` },
+    ])
   }
 }
 
@@ -37,5 +34,3 @@ export const reportError = (errorID, error) => {
   }
   handleErrorOverlay()
 }
-
-export { errorMap }
