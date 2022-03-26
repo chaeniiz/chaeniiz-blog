@@ -14,7 +14,7 @@ module.exports = {
     name: `송채윤`,
     bio: {
       role: `개발자`,
-      description: ['예술을 사랑하는', '비건', '사유하는'],
+      description: ['귀여운 강아지와 함께 사는', '비건', '사유하는', '예술을 사랑하는'],
       thumbnail: 'chaeniiz.gif', // Path to the image in the 'asset' folder
     },
     social: {
