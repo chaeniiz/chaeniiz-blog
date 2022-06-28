@@ -47,7 +47,7 @@ categories: 블로그
 
 ### Tory Lanez
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q9Yt4x6_wmg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1000" height="500" src="https://www.youtube.com/embed/q9Yt4x6_wmg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 아주 푹 빠져 버린 아티스트. 유튜브 업로드도 했었는데 차단 먹었다. ㅠ 서글퍼. Alone At Prom < 이 앨범이 진짜 갓반임. 위켄드랑 비슷한 느낌인데 좀 더 껄렁하다. 좋다.
 
@@ -75,7 +75,7 @@ categories: 블로그
 
 #### 본 영화
 
-![영화](./movie1.png) ![영화](./movie2.png)
+![영화](./movie1.png) ![영화](./movie2.jpg)
 
 #### 디깅 한 음악
 
@@ -183,7 +183,7 @@ categories: 블로그
 
 5월이 다 가기 전에 생일 축하해 준 우리 세정이. 등촌역 근처에 이렇게 예쁜 카페가 있길래 킥복싱 끝나고 만났다.
 
-![오프레스트](./세정.jpg)
+![오프레스트](./세정.png)
 
 기억도 안 나는데 내가 “우리 집에 물이랑 술밖에 없어”라는 말을 했다고. 그래서 생일 선물로 꼭 찻잔과 차를 선물해 주고 싶었다고. 친구들에게 물어 가며 고심 끝에 결정했다던 예쁜 티포트와 티 샘플러 한 달 분을 선물받았다. 선물보다도 세정의 기억 끄트머리에 내가 있음과 날 생각하며 고민했을 시간이 좋았다.
 
