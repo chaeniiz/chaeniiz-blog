@@ -47,7 +47,7 @@ categories: 블로그
 
 ### Tory Lanez
 
-<iframe width="1000" height="500" src="https://www.youtube.com/embed/q9Yt4x6_wmg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="700" height="500" src="https://www.youtube.com/embed/q9Yt4x6_wmg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 아주 푹 빠져 버린 아티스트. 유튜브 업로드도 했었는데 차단 먹었다. ㅠ 서글퍼. Alone At Prom < 이 앨범이 진짜 갓반임. 위켄드랑 비슷한 느낌인데 좀 더 껄렁하다. 좋다.
 
