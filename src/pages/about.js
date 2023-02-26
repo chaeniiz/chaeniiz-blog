@@ -10,14 +10,14 @@ import TechBlogSection from '../components/tech-blog-section';
 function AboutPage({ data }) {
   const metaData = data.site.siteMetadata;
   const { author, about, language } = metaData;
-  const { timestamps, projects, techblogs } = about;
+  const { timestamps, techblogs, projects } = about;
   return (
     <Layout>
       <Seo title="About" />
       <Bio author={author} language={language} />
       <TimeStampSection timestamps={timestamps} />
-      <ProjectSection projects={projects} />
       <TechBlogSection techblogs={techblogs} />
+      <ProjectSection projects={projects} />
     </Layout>
   );
 }
@@ -58,6 +58,20 @@ export const pageQuery = graphql`
             }
           }
 
+          techblogs {
+            title
+            description
+            techStack
+            thumbnailUrl
+            links {
+              post
+              github
+              demo
+              googlePlay
+              appStore
+            }
+          }
+
           projects {
             title
             description
@@ -72,19 +86,6 @@ export const pageQuery = graphql`
             }
           }
 
-          techblogs {
-            title
-            description
-            techStack
-            thumbnailUrl
-            links {
-              post
-              github
-              demo
-              googlePlay
-              appStore
-            }
-          }
         }
       }
     }
