@@ -5,17 +5,19 @@ import Seo from '../components/seo';
 import Bio from '../components/bio';
 import TimeStampSection from '../components/timestamp-section';
 import ProjectSection from '../components/project-section';
+import TechBlogSection from '../components/tech-blog-section';
 
 function AboutPage({ data }) {
   const metaData = data.site.siteMetadata;
   const { author, about, language } = metaData;
-  const { timestamps, projects } = about;
+  const { timestamps, projects, techblogs } = about;
   return (
     <Layout>
       <Seo title="About" />
       <Bio author={author} language={language} />
       <TimeStampSection timestamps={timestamps} />
       <ProjectSection projects={projects} />
+      <TechBlogSection techblogs={techblogs} />
     </Layout>
   );
 }
@@ -57,6 +59,20 @@ export const pageQuery = graphql`
           }
 
           projects {
+            title
+            description
+            techStack
+            thumbnailUrl
+            links {
+              post
+              github
+              demo
+              googlePlay
+              appStore
+            }
+          }
+
+          techblogs {
             title
             description
             techStack
