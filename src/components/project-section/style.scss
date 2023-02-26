@@ -1,14 +1,14 @@
 @use '../../styles/variables'as *;
 @use '../../styles/mixins'as *;
 
-.project-section {
+.tech-blog-section {
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   width: 100%;
 
-  .project {
+  .techblog {
     padding: 15px;
     display: flex;
     flex-direction: column;
