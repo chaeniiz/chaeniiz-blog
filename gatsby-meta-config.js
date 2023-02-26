@@ -60,6 +60,50 @@ module.exports = {
       },
     ],
 
+    techblogs: [
+      // =====        [Project Sample and Structure]        =====
+      // ===== 🚫 Don't erase this sample (여기 지우지 마세요!)  =====
+      {
+        title: '',
+        description: '',
+        techStack: ['', ''],
+        thumbnailUrl: '',
+        links: {
+          post: '',
+          github: '',
+          googlePlay: '',
+          appStore: '',
+          demo: '',
+        },
+      },
+      // ========================================================
+      // ========================================================
+      {
+        title: '사회 초년생이 바라본 레이니스트',
+        description: '안드로이드 팀에서 인턴으로 일하고 계신 채윤님이 느낀 레이니스트는 어떤 곳일까요?',
+        thumbnailUrl: 'https://cdn-images-1.medium.com/fit/t/1600/480/1*S1D-eY1qY38oouH512dh1w.jpeg',
+        links: {
+          post: 'https://medium.com/banksalad/reviewing-rainist-by-newcomer-e2ecbf9ad812',
+        },
+      },
+      {
+        title: '테스트 코드, 안드로이드에서는 어떻게 작성해야 할까?',
+        description: '뱅크샐러드 안드로이드 팀의 테스트 코드 작성 방법 엿보기',
+        thumbnailUrl: 'https://blog.banksalad.com/static/593943e0bdf5c7b71994f54af6e4175d/32af0/cover.webp',
+        links: {
+          post: 'https://blog.banksalad.com/tech/test-in-banksalad-android/',
+        },
+      },
+      {
+        title: '뱅크샐러드의 특별한 스펙, "테크 스펙"',
+        description: '개발 전 문서로 코드를 설명하는 테크 스펙 기반 협업 문화에 대해 설명합니다.',
+        thumbnailUrl: 'https://blog.banksalad.com/static/fdb2575501f98c0af51497b7eab87c1e/3b654/cover.webp',
+        links: {
+          post: 'https://blog.banksalad.com/tech/we-work-by-tech-spec/',
+        },
+      },
+    ],
+
     projects: [
       // =====        [Project Sample and Structure]        =====
       // ===== 🚫 Don't erase this sample (여기 지우지 마세요!)  =====
