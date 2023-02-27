@@ -81,7 +81,7 @@ module.exports = {
       {
         title: '사회 초년생이 바라본 레이니스트',
         description: '안드로이드 팀에서 인턴으로 일하고 계신 채윤님이 느낀 레이니스트는 어떤 곳일까요?',
-        thumbnailUrl: 'cover_intern.jpg',
+        thumbnailUrl: 'cover_intern.jpeg',
         links: {
           post: 'https://medium.com/banksalad/reviewing-rainist-by-newcomer-e2ecbf9ad812',
         },
