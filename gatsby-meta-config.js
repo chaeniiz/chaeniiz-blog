@@ -18,9 +18,9 @@ module.exports = {
       thumbnail: 'chaeniiz.gif', // Path to the image in the 'asset' folder
     },
     social: {
-      github: ``, // `https://github.com/chaeniiz`,
-      linkedIn: ``, // `https://www.linkedin.com/in/jinhyeok-jeong-800871192`,
-      email: ``, // `chaeniiz@kakao.com`,
+      github: `https://github.com/chaeniiz`, 
+      linkedIn: `https://www.linkedin.com/in/%EC%B1%84%EC%9C%A4-%EC%86%A1-335a84194/`, 
+      email: `chaeniiz@kakao.com`, 
     },
   },
 
