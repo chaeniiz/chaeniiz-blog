@@ -19,7 +19,9 @@ function TechBlogSection({ techblogs }) {
               )}
             </div>
             <div className="body">
-              <Image className="thumbnail" src={techblog.thumbnailUrl} links={techblog.links} />
+              <a href={techblog.links}>
+                <Image className="thumbnail" src={techblog.thumbnailUrl} links={techblog.links} />
+                </a>
 
               {techblog.techStack && (
                 <div className="tech-stack">
