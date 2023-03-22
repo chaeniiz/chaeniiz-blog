@@ -19,23 +19,25 @@ function TechBlogSection({ techblogs }) {
                 <IconButtonBar links={techblog.links} style={{ color: '#a8a8a8', fontSize: 24 }} />
               )}
             </div>
-            {techblog.link && (
-              <Link to={techblog.link}>
-                <Image className="thumbnail" src={techblog.thumbnailUrl} />
-              </Link>
-            )}
-
-              {techblog.techStack && (
-                <div className="tech-stack">
-                  {techblog.techStack.map((tech, index) => (
-                    <div key={index} className="tech">
-                      {tech}
-                    </div>
-                  ))}
-                </div>
+            <div className="body">
+              {techblog.link && (
+                <Link to={techblog.link}>
+                  <Image className="thumbnail" src={techblog.thumbnailUrl} />
+                </Link>
               )}
-              <div className="description">{techblog.description}</div>
+
+                {techblog.techStack && (
+                  <div className="tech-stack">
+                    {techblog.techStack.map((tech, index) => (
+                      <div key={index} className="tech">
+                        {tech}
+                      </div>
+                    ))}
+                  </div>
+                )}
+                <div className="description">{techblog.description}</div>
             </div>
+          </div>
         ),
       )}
     </div>
