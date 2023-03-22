@@ -15,11 +15,10 @@ function TechBlogSection({ techblogs }) {
           <div className="techblog" key={index}>
             <div className="head">
               {techblog.title}&nbsp;&nbsp;
-              {techblog.link && (
-                <IconButtonBar links={techblog.link} style={{ color: '#a8a8a8', fontSize: 24 }} />
+              {techblog.links && (
+                <IconButtonBar links={techblog.links} style={{ color: '#a8a8a8', fontSize: 24 }} />
               )}
             </div>
-            <div className="body">
             {techblog.link && (
               <Link to={techblog.link}>
                 <Image className="thumbnail" src={techblog.thumbnailUrl} />
@@ -37,7 +36,6 @@ function TechBlogSection({ techblogs }) {
               )}
               <div className="description">{techblog.description}</div>
             </div>
-          </div>
         ),
       )}
     </div>

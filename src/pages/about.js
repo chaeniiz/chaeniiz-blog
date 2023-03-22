@@ -64,6 +64,13 @@ export const pageQuery = graphql`
             techStack
             thumbnailUrl
             link
+            links {
+              post
+              github
+              demo
+              googlePlay
+              appStore
+            }
           }
 
           projects {

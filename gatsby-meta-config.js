@@ -69,6 +69,13 @@ module.exports = {
         techStack: ['', ''],
         thumbnailUrl: '',
         link: '',
+        links: {
+          post: '',
+          github: '',
+          googlePlay: '',
+          appStore: '',
+          demo: '',
+        },
       },
       // ========================================================
       // ========================================================
@@ -77,18 +84,27 @@ module.exports = {
         description: '안드로이드 팀에서 인턴으로 일하고 계신 채윤님이 느낀 레이니스트는 어떤 곳일까요?',
         thumbnailUrl: 'cover_intern.jpeg',
         link: 'https://medium.com/banksalad/reviewing-rainist-by-newcomer-e2ecbf9ad812',
+        links: {
+          post: 'https://medium.com/banksalad/reviewing-rainist-by-newcomer-e2ecbf9ad812',
+        },
       },
       {
         title: '테스트 코드, 안드로이드에서는 어떻게 작성해야 할까?',
         description: '뱅크샐러드 안드로이드 팀의 테스트 코드 작성 방법 엿보기',
         thumbnailUrl: 'cover_test.jpg',
         link: 'https://blog.banksalad.com/tech/test-in-banksalad-android/',
+        links: {
+          post: 'https://blog.banksalad.com/tech/test-in-banksalad-android/',
+        },
       },
       {
         title: '뱅크샐러드의 특별한 스펙, "테크 스펙"',
         description: '개발 전 문서로 코드를 설명하는 테크 스펙 기반 협업 문화에 대해 설명합니다.',
         thumbnailUrl: 'cover_tech_spec.jpg',
         link: 'https://blog.banksalad.com/tech/we-work-by-tech-spec/',
+        links: {
+          post: 'https://blog.banksalad.com/tech/we-work-by-tech-spec/',
+        },
       },
     ],
 
