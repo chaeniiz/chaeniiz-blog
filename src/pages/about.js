@@ -63,13 +63,7 @@ export const pageQuery = graphql`
             description
             techStack
             thumbnailUrl
-            links {
-              post
-              github
-              demo
-              googlePlay
-              appStore
-            }
+            link
           }
 
           projects {

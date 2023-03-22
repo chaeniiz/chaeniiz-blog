@@ -3,6 +3,7 @@ import SectionHeader from '../section-header';
 import IconButtonBar from '../icon-button-bar';
 import Image from '../image';
 import './style.scss';
+import { Link } from 'gatsby';
 
 function TechBlogSection({ techblogs }) {
   if (!techblogs || techblogs.length < 2) return null;
@@ -12,15 +13,17 @@ function TechBlogSection({ techblogs }) {
       {techblogs.map((techblog, index) =>
         index === 0 ? null : (
           <div className="techblog" key={index}>
-            <div className="head" links={techblog.links}>
+            <div className="head">
               {techblog.title}&nbsp;&nbsp;
-              {techblog.links && (
-                <IconButtonBar links={techblog.links} style={{ color: '#a8a8a8', fontSize: 24 }} />
+              {techblog.link && (
+                <IconButtonBar links={techblog.link} style={{ color: '#a8a8a8', fontSize: 24 }} />
               )}
             </div>
             <div className="body">
-            {techblog.links && (
-              <Image className="thumbnail" src={techblog.thumbnailUrl} links={techblog.links} />
+            {techblog.link && (
+              <Link to={techblog.link}>
+                <Image className="thumbnail" src={techblog.thumbnailUrl} />
+              </Link>
             )}
 
               {techblog.techStack && (
