@@ -1,7 +1,7 @@
 ---
 emoji: ➰
 title: SOLID 원칙
-date: '2022-03-15 00:00:00'
+date: '2023-03-15 00:00:00'
 author: 채윤
 tags: 아키텍처 SOLID
 categories: architecture

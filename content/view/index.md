@@ -1,7 +1,7 @@
 ---
 emoji: 🎨
 title: View가 그려지는 과정
-date: '2022-03-09 00:00:00'
+date: '2023-03-09 00:00:00'
 author: 채윤
 tags: 안드로이드 뷰
 categories: android

@@ -1,7 +1,7 @@
 ---
 emoji: 💽
 title: data class, sealed class
-date: '2022-03-08 00:00:00'
+date: '2023-03-08 00:00:00'
 author: 채윤
 tags: 데이터클래스 실드클래스 코틀린
 categories: kotlin

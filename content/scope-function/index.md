@@ -1,7 +1,7 @@
 ---
 emoji: 🖋
 title: 범위 지정 함수 (Scope Function)
-date: '2022-03-01 00:00:00'
+date: '2023-03-01 00:00:00'
 author: 채윤
 tags: 범위지정함수 코틀린
 categories: kotlin
