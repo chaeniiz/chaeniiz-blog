@@ -12,4 +12,4 @@ categories: 블로그
 저는 조금 더 많은 사람들에게 닿고 싶어졌어요. 앞으로 일상은 네이버 블로그를 통해 연재(?)하고, 본 페이지는 포트폴리오 용으로 업데이트할 예정입니다.
 
 그동안 썼던 글들은 이곳에 그대로 남겨 둘게요. 앞으로의 이야기는 아래 링크에서 만나요!
-https://blog.naver.com/chaizdaiiz
+https://blog.naver.com/chaeniiz
